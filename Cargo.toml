@@ -1,0 +1,12 @@
+[package]
+name = "shuttle-003"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+askama = "0.12.1"
+shuttle-actix-web = "0.32.0"
+shuttle-runtime = "0.32.0"
+tokio = "1.34.0"
+
